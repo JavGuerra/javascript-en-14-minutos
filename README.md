@@ -1,13 +1,14 @@
-# JavaScript in 14 minutes
+# JavaScript en 14 minutos
 
-<a href="https://jgthms.com/javascript-in-14-minutes/"><img src="https://raw.githubusercontent.com/jgthms/javascript-in-14-minutes/master/images/javascript-in-14-minutes.png" alt="JavaScript in 14 minutes" style="max-width:100%;" width="600" height="315"></a>
+<a href="https://javguerra.github.io/javascript-en-14-minutos/"><img src="https://raw.githubusercontent.com/javguerra/javascript-en-14-minutos/master/images/javascript-in-14-minutes.png" alt="JavaScript en 14 minutos" style="max-width:100%;" width="600" height="315"></a>
 
-Learn the basics of JavaScript in 14 minutes with this interactive tutorial! 😃
+[¡Aprende lo basico sobre JavaScript en 14 minutos con este tutorial interactivo!](https://javguerra.github.io/javascript-en-14-minutos/) 😃
 
-## Copyright and license
+## Copyright y licencia
 
-Code copyright 2018 Jeremy Thomas.
+Código copyright 2018 Jeremy Thomas.
 
-The content of this project itself is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+El contenido de este projecto en sí está licenciado bajo [Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es_ES).
 
-The underlying source code used to format and display that content is licensed under the [MIT license](https://opensource.org/licenses/mit-license.php).
+El código fuente subyacente utilizado para formatear y mostrar ese contenido está autorizado bajo la [licencia MIT](https://opensource.org/licenses/mit-license.php).
+
