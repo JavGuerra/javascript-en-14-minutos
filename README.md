@@ -8,7 +8,7 @@
 
 Código copyright 2018 Jeremy Thomas.
 
-El contenido de este projecto en sí está licenciado bajo [Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es_ES).
+El contenido de este proyecto en sí está licenciado bajo [Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es_ES).
 
 El código fuente subyacente utilizado para formatear y mostrar ese contenido está autorizado bajo la [licencia MIT](https://opensource.org/licenses/mit-license.php).
 
